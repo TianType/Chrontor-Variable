@@ -1,3 +1,4 @@
+<img width="1080" height="1440" alt="specimen" src="https://github.com/user-attachments/assets/d83da1ce-d5fd-422c-8ee6-b7a795b95da6" />
 # Chrontor Variable
 
 ## Introduction / 字体介绍
