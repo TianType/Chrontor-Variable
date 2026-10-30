@@ -5,9 +5,19 @@
 "name": "",
 "layerName": "default",
 "locationBase": "default"
+},
+{
+"name": "",
+"layerName": "b9874bdc",
+"locationBase": "b9874bdc"
 }
 ],
 "layers": {
+"b9874bdc": {
+"glyph": {
+"xAdvance": 450
+}
+},
 "default": {
 "glyph": {
 "xAdvance": 400

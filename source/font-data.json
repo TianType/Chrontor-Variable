@@ -1,16 +1,71 @@
 {
 "fontInfo": {
-"familyName": "Chrontor",
-"versionMajor": 1,
+"familyName": "Chrontor Variable",
+"versionMajor": 2,
 "copyright": "© 2026 Tianhao Zhang (TianType)",
 "description": "小红书 / rednote ID：1384454605",
 "designer": "Tianhao Zhang (TianType)",
-"designerURL": "小红书 / rednote ID：1384454605",
+"designerURL": "https://www.xiaohongshu.com/user/profile/61ecc476000000001000c35b",
 "licenseDescription": "SIL Open Font License, Version 1.1",
 "licenseInfoURL": "",
 "vendorID": ""
 },
+"axes": {
+"axes": [
+{
+"name": "width",
+"label": "Width",
+"tag": "wdth",
+"minValue": 50,
+"defaultValue": 50,
+"maxValue": 100,
+"mapping": [
+[
+50,
+50
+],
+[
+100,
+100
+]
+],
+"valueLabels": [
+{
+"name": "Regular",
+"value": 50
+},
+{
+"name": "Extended",
+"value": 100
+}
+]
+}
+]
+},
 "sources": {
+"b9874bdc": {
+"name": "Extended",
+"location": {
+"width": 100
+},
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750
+},
+"capHeight": {
+"value": 700
+},
+"xHeight": {
+"value": 500
+},
+"descender": {
+"value": -250
+},
+"baseline": {
+"value": 0
+}
+}
+},
 "default": {
 "name": "Regular",
 "lineMetricsHorizontalLayout": {

@@ -5,9 +5,56 @@
 "name": "",
 "layerName": "default",
 "locationBase": "default"
+},
+{
+"name": "",
+"layerName": "b9874bdc",
+"locationBase": "b9874bdc"
 }
 ],
 "layers": {
+"b9874bdc": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 660,
+"y": 700
+},
+{
+"x": 10,
+"y": 700
+},
+{
+"x": 10,
+"y": 600
+},
+{
+"x": 660,
+"y": 600
+},
+{
+"x": 660,
+"y": 0
+},
+{
+"x": 760,
+"y": 0
+},
+{
+"x": 760,
+"y": 600
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 810
+}
+},
 "default": {
 "glyph": {
 "path": {

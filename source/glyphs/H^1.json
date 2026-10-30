@@ -5,9 +5,85 @@
 "name": "",
 "layerName": "default",
 "locationBase": "default"
+},
+{
+"name": "",
+"layerName": "b9874bdc",
+"locationBase": "b9874bdc"
 }
 ],
 "layers": {
+"b9874bdc": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 250,
+"y": 300
+},
+{
+"x": 650,
+"y": 300
+},
+{
+"x": 750,
+"y": 400
+},
+{
+"x": 150,
+"y": 400
+},
+{
+"x": 150,
+"y": 700
+},
+{
+"x": 50,
+"y": 700
+},
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 150,
+"y": 0
+},
+{
+"x": 150,
+"y": 400
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 750,
+"y": 0
+},
+{
+"x": 850,
+"y": 0
+},
+{
+"x": 850,
+"y": 700
+},
+{
+"x": 750,
+"y": 700
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 900
+}
+},
 "default": {
 "glyph": {
 "path": {
