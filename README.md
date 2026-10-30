@@ -1,4 +1,4 @@
-![alt text](specimen.jpg)# Chrontor Variable
+# Chrontor Variable
 
 ## Introduction / 字体介绍
 Chrontor Variable is a futuristic grid‑based modular typeface inspired by Wim Crouwel’s *New Alphabet* from 1967. All glyphs are built purely with geometric straight lines. All diagonal strokes share a unified 45‑degree angle, bringing strong orderliness and minimalist constructive feeling. Its aesthetic is sterile, avant‑garde and distinctly sci‑fi‑flavoured. The name Chrontor originates from Chronos, god of time, meaning "the master of time".
